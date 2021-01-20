@@ -1,0 +1,17 @@
+
+<h1>All Reports:</h1>
+
+<ol>
+@foreach (Report report in Model)
+{
+  <ul>
+    @* <li>ID: @report.ReportId</li> *@
+    <li>Date: @report.Date</li>
+    <li>Condition: @report.Condition</li>
+    <li>Location: @report.Location</li>
+    <li>Username: @report.Username</li>
+  </ul>
+  <a href="/Reports/Details/@(report.ReportId)"><p>View Details</p></a>
+  <br>
+}
+</ol>
