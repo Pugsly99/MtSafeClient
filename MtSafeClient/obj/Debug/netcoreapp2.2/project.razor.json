@@ -1902,8 +1902,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Ryland\\Desktop\\MtSafeClient.Solution\\MtSafeClient\\Views\\Animals\\Index.cshtml",
-      "TargetPath": "Views\\Animals\\Index.cshtml",
+      "FilePath": "c:\\Users\\Ryland\\Desktop\\MtSafeClient.Solution\\MtSafeClient\\Views\\Reports\\Index.cshtml",
+      "TargetPath": "Views\\Reports\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
